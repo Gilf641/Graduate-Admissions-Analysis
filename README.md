@@ -1,5 +1,7 @@
 # Graduate-Admissions-Analysis
 
+![](https://www.stoodnt.com/blog/wp-content/uploads/2019/12/how-to-get-into-ivy-league-colleges-ms.jpg)
+
 The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included are :
 
